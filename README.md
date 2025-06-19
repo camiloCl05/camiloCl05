@@ -40,8 +40,6 @@
 
 - 📧 [camiloenrique05@gmail.com](mailto:camiloenrique05@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/camilocedeno)  
-- 🧠 [GitHub](https://github.com/camiloCl05)
-
 ---
 
 ⭐ *Thanks for visiting my GitHub profile! I'm always open to learning, collaborating, and building impactful software.*
