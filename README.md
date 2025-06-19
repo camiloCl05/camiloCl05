@@ -6,19 +6,6 @@
 
 ---
 
-## 💼 Experience
-
-- 👨‍💻 **Software Development Intern (Backend)** at ST3AM  
-  Building backend systems using **FastAPI**, implementing **OAuth2** authentication, validation with **Pydantic**, and database models with **SQLAlchemy**. Working in an Agile team using **GitHub** and **Monada Dev**.
-
-- ⚙️ **Backend Projects** using **Node.js**, **Express**, **TypeORM**, **PostgreSQL**  
-  Developed RESTful APIs with JWT authentication, applied MVC architecture, and collaborated via GitHub and Jira.
-
-- 🔧 **Embedded Systems Project** (FIU)  
-  Real-time sound effect system using **ESP32** and **C++**, including OLED display, keypad input, and SD card storage. Fully designed and soldered the hardware into a custom LEGO-based chassis.
-
----
-
 ## 🛠️ Technologies & Tools
 
 **Languages:**  
